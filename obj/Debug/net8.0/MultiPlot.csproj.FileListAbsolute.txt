@@ -1,0 +1,14 @@
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/bin/Debug/net8.0/MultiPlot
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/bin/Debug/net8.0/MultiPlot.deps.json
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/bin/Debug/net8.0/MultiPlot.runtimeconfig.json
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/bin/Debug/net8.0/MultiPlot.dll
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/bin/Debug/net8.0/MultiPlot.pdb
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.AssemblyInfoInputs.cache
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.AssemblyInfo.cs
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.csproj.CoreCompileInputs.cache
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.dll
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/refint/MultiPlot.dll
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.pdb
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/MultiPlot.genruntimeconfig.cache
+/Users/eugenedann/Documents/Dev/DottyNet/MultiPlot/obj/Debug/net8.0/ref/MultiPlot.dll
